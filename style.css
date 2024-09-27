@@ -1,0 +1,40 @@
+.logo{
+    background-color: #c4eb38;
+    height: 10rem;
+    width: 100%;
+}
+
+
+
+.collapse {
+    margin-top: ;
+}
+
+.pic{
+    height: 100px;
+}
+.log{
+    width: 50%;
+}
+.logo-quote{
+    width: 50%;
+}
+.backgr{
+    background-color: grey;
+    height: 100%;
+    width: 100%;
+}
+.content{
+    margin-top: -154px;
+    margin-left: 170px;
+}
+.navbar-toggler {
+    padding: .25rem .75rem;
+    font-size: 1.25rem;
+    line-height: 1;
+   
+    border: 1px solid transparent;
+    border-radius: .25rem;
+    transition: box-shadow .15s ease-in-out;
+}
+
